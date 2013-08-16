@@ -1,0 +1,91 @@
+
+
+
+
+@colorLight: #F1F3F5;
+@colorSoft: #878c93;
+@colorLink: #355fAE;
+@colorHover: #274886;
+
+
+
+
+
+* { margin: 0; padding: 0; }
+
+.l { float: left; }
+.r { float: right; }
+
+
+body { font: 12px/1.5 Lora, Merriweather, Georgia, "Times New Roman", "Hiragino Sans GB", serif; }
+
+a { transition: all .5s; }
+
+#wrapper { margin: 0 auto; width: 700px; }
+
+#header {
+	height: 60px; border-bottom: 1px solid @colorLight;
+}
+
+#footer {
+	 padding: 30px 0; color: #ced8e2;
+	a { color: #ced8e2; text-decoration: none; }
+		a:hover { color: @colorHover; }
+}
+
+
+.logo {
+	.l;
+	a { width: 80px; height: 70px; background: url(../images/sign.png) no-repeat 0 100%; background-size: 80px 51px; line-height: 210px; overflow: hidden; opacity: .9; .l; }
+		a:hover { opacity: 1; }
+}
+
+.menu {
+	padding-top: 36px; text-transform: uppercase; .r;
+	li { padding-left: 20px; list-style: none; .l; }
+	a { color: @colorSoft; text-decoration: none; }
+		a:hover { color: @colorHover; }
+}
+
+
+#intro {
+	padding: 2em 0; font-size: 26px; font-family: ; font-weight: 300; color: @colorSoft;
+	i { font-size: 26px; font-style: normal; font-family: Songti, SimSun, serif; }
+	a { color: #999; text-decoration: none; }
+		a:hover { color: #717171; }
+	.gfw { cursor: help; }
+}
+
+#list {
+	font-size: 22px;
+	li { padding: 9px 0; list-style: none; }
+	time { color: #ced8e2; font-style: italic; font-size: 18px; font-weight: 300; }
+	a { color: @colorLink; text-decoration: none; border-bottom: 1px solid @colorLight; }
+		a:hover { color: @colorHover; border-bottom-color: #ced8e2;  }
+}
+
+#content {
+	padding-top: 30px;
+	h1 { font-size: 26px; font-weight: 700; color: #222; }
+	.meta {
+		color: @colorSoft;
+		a { color: @colorSoft; }
+			a:hover { color: @colorHover; }
+	}
+	.body { padding-top: 20px; color: #444; font-size: 16px; }
+	p { margin-bottom: 1em; }
+	blockquote { margin: 0 1em 1em .5em; padding-left: 1em; border-left: 4px solid @colorLight; color: @colorSoft; }
+	pre { padding: 1em; border-left: 2px solid #ced8e2; background: @colorLight; font-size: 14px; color: #614992; line-height: 1.4; }
+	code { font-family: Monaco, Menlo, "Courier New", monospace; }
+	a { color: @colorLink; text-decoration: none; }
+		a:hover { color: @colorHover; }
+	.nav {
+		padding-top: 20px; height: 60px; font-size: 16px;
+		em { display: block; color: @colorSoft; font-style: normal; font-size: 12px; }
+		a { padding: 10px; border-radius: 5px; }
+			a:hover { background: @colorLight; }
+	}
+		.previous { .l; }
+		.next { text-align: right; .r; }
+}
+
