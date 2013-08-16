@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:month/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -15,7 +15,9 @@ author :
   name : Li Fangming
   email : lushnis@gmail.com
   github : lushnis
-  twitter : lishnis
+  twitter : lushnis
+  weibo : lushnis
+  dribbble : lushnis
   feedburner : mixfog
 
 # The production_url is only used when full-domain names are needed
