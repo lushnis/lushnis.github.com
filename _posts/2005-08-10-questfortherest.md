@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 好玩的 Flash 网站
+title: 好玩的 Flash 闯关游戏网站
 categories: ['link']
+tags: [Flash,Games]
 
 ---
 
@@ -9,4 +10,4 @@ categories: ['link']
 
 ###[http://www.questfortherest.com](http://www.questfortherest.com)
 
-简单好玩的过关游戏。
+简单好玩的过关游戏，画面精致。
