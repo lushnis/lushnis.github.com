@@ -2,7 +2,6 @@
 layout: post
 title: 向 Dieter Rams 致敬
 categories: ['text']
-tags: [design,]
 
 ---
 
