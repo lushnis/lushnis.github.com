@@ -1,5 +1,6 @@
 ---
 layout: post
+title: FastStone Capture
 categories: ['text']
 tags: ['Application']
 

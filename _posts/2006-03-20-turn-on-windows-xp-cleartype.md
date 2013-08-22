@@ -2,6 +2,7 @@
 layout: post
 title: 在 Windows XP 中开启 ClearType
 categories: ['text']
+tags: ['Windows']
 
 ---
 

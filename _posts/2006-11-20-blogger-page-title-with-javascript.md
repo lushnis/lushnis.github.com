@@ -1,9 +1,14 @@
 ---
 layout: post
+title: 利用 Javascript 为 Blogger 页面加上标题
 categories: ['text']
+tags: ['Javascript','Blogger']
+
 ---
 
 在使用了 Blogger 系统的 Blog 中，存档页面和 Label 页面都没有一个醒目的标题，看起来跟首页没有什么两样，这对于阅读者来说多少有些不友好。如果能够给每个页面加一个标题，例如“存档：2006/11 - 2006/12”或者“TAG：Javascript”，那么阅读者就会减少很多迷惘（~~本站的演示:Label页面、存档页面~~）。这个功能只需了解一下  Javascript 中的 location 对象就不难实现。
+
+<!--more-->
 
 以URL
 

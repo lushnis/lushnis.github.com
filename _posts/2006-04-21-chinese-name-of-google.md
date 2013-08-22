@@ -2,6 +2,7 @@
 layout: post
 title: 谷歌之夜
 categories: ['text']
+tags: ['Google']
 
 ---
 ![image](http://farm1.staticflickr.com/50/127710097_c71787f231.jpg)
