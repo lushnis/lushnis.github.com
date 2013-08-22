@@ -43,6 +43,7 @@ a{transition:all .5s}
 #content .meta a[rel="permalink"]:before,#content .meta .more:before{padding:0 5px 0 10px;content:"p";font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
 #content .body{padding-top:20px;color:#444;font-size:16px}
 #content p{margin-bottom:1em}
+#content li{list-style-position:inside}
 #content blockquote{margin:0 1em 1em .5em;padding-left:1em;border-left:4px solid #f1f3f5;color:#878c93}
 #content pre{margin-bottom:1em;padding:1em;border-left:2px solid #ced8e2;background:#f1f3f5;font-size:14px;color:#614992;line-height:1.4}
 #content code{font-family:Monaco,Menlo,"Courier New",monospace}
