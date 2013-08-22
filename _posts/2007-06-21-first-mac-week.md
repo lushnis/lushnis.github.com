@@ -1,11 +1,16 @@
 ---
 layout: post
+title: Mac 使用一周感受
 categories: ['text']
+tags: ['Apple','Macbook Pro']
+
 ---
 
 上周六拿到了我[期待已久的 MacBook Pro](http://blog.fangming.li/2007/05/macbook-pro.html)，使用了一周后，感觉很容易上手。买之前基本没有使用过苹果操作系统，还有些担心，不过现在的苹果都是 Intel 平台，即使实在用不惯 OS X 也可以装个 Windows （这实在为很多 Mac Fans 所不齿）。
 
 下面就说说本周的使用感受，希望能给打算使用 Mac 的朋友一点帮助，也希望能跟众多 Mac Fans 多多交流。
+
+<!--more-->
 
 ######浏览器
 

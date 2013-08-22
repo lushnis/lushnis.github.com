@@ -1,13 +1,16 @@
 ---
 layout: post
+title: 本周重点听的两个音乐人
 categories: ['music']
+tags: ['Music']
+
 ---
 
-###Talking Heads
+###David Byrne & Talking Heads
 
 ![image](http://fangming.li/wimgs/blog/talking-heads.jpg)
 
-被称作 Post-Punk 或者 New Wave，我喜欢那种随意和夸张的唱腔和不断重复的旋律。主唱 David Byrne 毫无拘束的现场表演也很有看头。
+New Wave 代表，我喜欢那种随意和夸张的唱腔以及重复的旋律。主唱 David Byrne 毫无拘束的现场表演也很有看头。
 
 ###Iggy Pop
 

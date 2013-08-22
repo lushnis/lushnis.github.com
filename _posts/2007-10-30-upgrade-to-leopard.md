@@ -1,11 +1,15 @@
 ---
 layout: post
+title: 升级到 Mac OS X Leopard
 categories: ['text']
+tags: ['Apple','Mac']
 ---
 
 ![image](http://fangming.li/wimgs/blog/leopard.png)
 
 在 Macbook Pro 上安装了最新的 Leopard (MAC OS X 10.5)，直接从 Mac OS X 10.4.9 升级上来的，整个升级过程好像是四十分钟左右。完成后刚开始感觉有点慢，怀疑是 Spotlight 正在索引硬盘导致的，用了一会儿之后感觉速度正常。
+
+<!--more-->
 
 试用了一些 Leopard 的新功能，CoverFlow，眩，HTM 文件可以直接预览，PHP 文件会将代码显示出来，PDF 会分页浏览，视频文件可播放。Spaces 有点顿，而且没有切换效果，不爽。Dock 上分组效果很好。Time Machine 没有配置。
 
