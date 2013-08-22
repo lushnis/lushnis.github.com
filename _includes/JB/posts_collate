@@ -33,7 +33,7 @@ Usage:
       <ul>
     {% endif %}
   
-    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <time>{{ post.date | date: "%B %e, %Y" }}</time></li>
+    
   
     {% if forloop.last %}
       </ul>
