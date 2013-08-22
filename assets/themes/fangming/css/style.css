@@ -23,8 +23,8 @@ a{transition:all .5s}
 #archive{padding-top:30px;font-size:14px}#archive li{clear:both;list-style:none;color:#fff;line-height:1.8}
 #archive a{color:#355fae;text-decoration:none;border-bottom:1px solid #f1f3f5}
 #archive a:hover{color:#274886;border-bottom-color:#ced8e2}
-#archive span{float:left;width:140px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:12px;overflow:hidden}
-#archive h2,#archive h3{margin-top:1em;font-size:20px;color:#878c93}
+#archive span{float:left;width:140px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:13px;overflow:hidden}
+#archive h2,#archive h3{margin-top:1em;font-size:14px;color:#878c93}
 #archive h2{color:#f1f3f5}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
