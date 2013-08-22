@@ -5,8 +5,6 @@ categories: ['music']
 
 ---
 
-<video width="500" controls="controls" preload="metadata" poster="http://g1.ykimg.com/1100641F4651D76C1C71090620B8A01E9D8FEA-347D-F783-C33E-31A1BFCCAFBB" src="http://218.249.126.41/youku/67643206183B839D82E103213/030020010051D763AC21080620B8A006808658-FE43-2BA6-0AFC-C2EAD07DDBD8.mp4" type="video/mp4">
-</video>
 
 #####山丘
 

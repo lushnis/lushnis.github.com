@@ -9,6 +9,8 @@ categories: ['text']
 
 ![image](images/blog/addison-timlin-02.jpg)
 
+<!--more-->
+
 ![image](images/blog/addison-timlin-01.jpg)
 
 ![image](images/blog/addison-timlin-03.jpg)
