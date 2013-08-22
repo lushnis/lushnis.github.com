@@ -11,7 +11,7 @@ tags: [firefox]
 * 输入地址 "about:config"
 * 搜索 browser.tabs.showSingleWindowModePrefs
 * 双击，把值改为 "true"
-* 重启 Firefox
+* 重启 Firefox 
 * 打开设置面板
 * 高级 -> 标签浏览
 * 选中 "链接在新标签打开"
