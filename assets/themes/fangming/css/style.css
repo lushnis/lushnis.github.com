@@ -20,7 +20,8 @@ a{transition:all .5s}
 #list time{color:#ced8e2;font-style:italic;font-size:18px;font-weight:300}
 #list a{color:#355fae;text-decoration:none;border-bottom:1px solid #f1f3f5}
 #list a:hover{color:#274886;border-bottom-color:#ced8e2}
-#archive{margin-top:30px;font-size:14px;-webkit-columns:2;-webkit-column-rule:1px solid #f1f3f5;-webkit-column-gap:3em;-moz-columns:2;-moz-column-rule:1px solid #f1f3f5;-moz-column-gap:3em;columns:2;column-rule:1px solid #f1f3f5;column-gap:3em}#archive li{clear:both;list-style:none;color:#fff;line-height:1.8}
+#archive{margin-top:30px;font-size:14px;-webkit-columns:2;-webkit-column-rule:1px solid #f1f3f5;-webkit-column-gap:3em;-moz-columns:2;-moz-column-rule:1px solid #f1f3f5;-moz-column-gap:3em;columns:2;column-rule:1px solid #f1f3f5;column-gap:3em}#archive h1{padding:2em 0;font-size:26px;font-weight:700;color:#878c93;text-align:center}
+#archive li{clear:both;list-style:none;color:#fff;line-height:1.8}
 #archive a{color:#355fae;text-decoration:none;border-bottom:1px solid #f1f3f5}
 #archive a:hover{color:#274886;border-bottom-color:#ced8e2}
 #archive h2{margin-top:1em;font-size:14px;color:#878c93}
