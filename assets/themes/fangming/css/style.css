@@ -46,7 +46,7 @@ a{transition:all .5s}
 #content .nav{padding-top:20px;height:60px;font-size:16px}#content .nav em{display:block;color:#878c93;font-style:normal;font-size:12px}
 #content .nav a{padding:10px;border-radius:5px}
 #content .nav a:hover{background:#f1f3f5}
-#content .previous{float:left;padding-left:30px}
-#content .previous:before{content:"l";margin:5px 0 0 -30px;font-size:22px;font-family:"fontello";font-style:normal;font-weight:normal;speak:none;float:left}
-#content .next{padding-right:30px;text-align:right;float:right}
-#content .next:before{content:"r";margin:5px 0 0 -30px;font-size:22px;font-family:"fontello";font-style:normal;font-weight:normal;speak:none;float:right}
+#content .previous{float:left;padding-left:30px !important}
+#content .previous:before{content:"l";margin:5px 0 0 -20px;font-size:22px;font-family:"fontello";font-style:normal;font-weight:normal;speak:none;float:left}
+#content .next{padding-right:30px !important;text-align:right;float:right}
+#content .next:before{content:"r";margin:5px -20px 0 0;font-size:22px;font-family:"fontello";font-style:normal;font-weight:normal;speak:none;float:right}
