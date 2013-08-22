@@ -2,7 +2,7 @@
 layout: post
 title: 李宗盛 - 山丘
 categories: ['music']
-tags: ['music']
+tags: ['Music']
 
 ---
 
