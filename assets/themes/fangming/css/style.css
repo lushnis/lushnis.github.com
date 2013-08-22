@@ -1,4 +1,4 @@
-@font-face{font-family:'fontello';src:url('../../fonts/fontello.eot?92932617');src:url('../../fonts/fontello.eot?92932617#iefix') format('embedded-opentype'),url('../../fonts/fontello.woff?92932617') format('woff'),url('../../fonts/fontello.ttf?92932617') format('truetype'),url('../../fonts/fontello.svg?92932617#fontello') format('svg');font-weight:normal;font-style:normal}*{margin:0;padding:0}
+@font-face{font-family:'fontello';src:url('../../../fonts/fontello.eot?92932617');src:url('../../../fonts/fontello.eot?92932617#iefix') format('embedded-opentype'),url('../../../fonts/fontello.woff?92932617') format('woff'),url('../../../fonts/fontello.ttf?92932617') format('truetype'),url('../../../fonts/fontello.svg?92932617#fontello') format('svg');font-weight:normal;font-style:normal}*{margin:0;padding:0}
 .l{float:left}
 .r{float:right}
 .icon{font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
@@ -42,9 +42,10 @@ a{transition:all .5s}
 #content a{color:#355fae;text-decoration:none}
 #content a:hover{color:#274886}
 #content .nav{padding-top:20px;height:60px;font-size:16px}#content .nav em{display:block;color:#878c93;font-style:normal;font-size:12px}
-#content .nav a{padding:10px;border-radius:5px}
+#content .nav a{padding:10px 10px 10px 30px;border-radius:5px}
 #content .nav a:hover{background:#f1f3f5}
+#content .nav a:before{margin:5px 0 0 -30px;font-size:22px;font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
 #content .previous{float:left}
-#content .previous:before{content:"l";font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
+#content .previous:before{content:"l"}
 #content .next{text-align:right;float:right}
-#content .next:before{content:"r";font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
+#content .next:before{content:"r"}
