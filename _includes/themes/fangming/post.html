@@ -1,11 +1,15 @@
 <div id="content">
 	<h1>{{ page.title }}</h1>
+	<div class="posttag">
+		{% unless page.tags == empty %}
+		<ul>
+			{% assign tags_list = page.tags %}
+			{% include JB/tags_list %}
+		</ul>
+		{% endunless %} 
+	</div>
 	<p class="meta">
 		{{ page.date | date_to_long_string }}
-		{% unless page.tags == empty %}
-		{% assign tags_list = page.tags %}
-		{% include JB/tags_list %}
-		{% endunless %}  
 		<a rel="permalink" href="{{ page.url }}">Permalink</a>
 	</p>
 	<div class="body">
