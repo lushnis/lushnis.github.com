@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 李宗盛 - 山丘
+title: 李宗盛 山丘
 categories: ['music']
 
 ---
