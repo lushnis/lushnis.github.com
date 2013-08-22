@@ -126,9 +126,11 @@ a { transition: all .5s; }
 			a:hover { color: @colorHover; }
 		a[rel="permalink"]:before, .more:before { padding: 0 5px 0 10px; content: "p"; .icon; }
 	}
-	.body { padding-top: 20px; color: #444; font-size: 16px; }
+	.body {
+		padding-top: 20px; color: #444; font-size: 16px;
+		ul, ol { padding: 0 0 1em 2em; }
+	}
 	p { margin-bottom: 1em; }
-	li { list-style-position: inside; }
 	blockquote { margin: 0 1em 1em .5em; padding-left: 1em; border-left: 4px solid @colorLight; color: @colorSoft; }
 	pre { margin-bottom: 1em; padding: 1em; border-left: 2px solid #ced8e2; background: @colorLight; font-size: 14px; color: #614992; line-height: 1.4; }
 	code { font-family: Monaco, Menlo, "Courier New", monospace; }
