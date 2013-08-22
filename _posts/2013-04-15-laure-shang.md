@@ -6,7 +6,7 @@ tags: ['Music']
 
 ---
 
-![image](http://blog.fangming.li/images/blog/laure-shang.jpg)
+![image](../../assets/images/laure-shang.jpg)
 
 虽然尚雯婕是2006年选秀出来的，但我第一次知道她是通过《我是歌手》节目。第一场她唱了一首歌叫《最终信仰 the Faith》，自我介绍的时候她自称为“独立电子音乐唱作人”，我不知道这个唱作人是啥概念，认为这是些提升B格的小噱头而已。等她完整地唱完，我觉得歌儿很棒，甚至说“震撼”也不夸张，更关键的是范儿很正。
 
