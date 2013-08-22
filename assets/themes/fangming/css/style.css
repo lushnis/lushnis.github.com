@@ -20,6 +20,7 @@ a{transition:all .5s}
 #list time{color:#ced8e2;font-style:italic;font-size:18px;font-weight:300}
 #list a{color:#355fae;text-decoration:none;border-bottom:1px solid #f1f3f5}
 #list a:hover{color:#274886;border-bottom-color:#ced8e2}
+#list h2{float:right}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
