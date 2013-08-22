@@ -5,4 +5,4 @@ categories: ['text']
 
 ---
 
-如是。
+如是，为记。
