@@ -2,6 +2,8 @@
 layout: post
 title: Google 提供的小工具
 categories: ['text']
+tags: ['Frontend','Google','Tools']
+
 ---
 
 **[Google Trends](http://www.google.com/trends)**
@@ -16,7 +18,7 @@ Google的网上记事本，通过浏览器插件工作，已有Firefox和IE版�
 
 网页中有不想被Google检索的信息？用这个：
 
-	<!--googleof: index-->
+	<!--googleoff: index-->
 	...不想被检索...
 	<!--googleon: index-->
 
