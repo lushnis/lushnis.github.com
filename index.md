@@ -8,7 +8,7 @@ title: Li Fangming
 </div>
 <div id="list">
 	<ul>
-		{% for post in site.posts %}
+		{% for post in paginator.posts %}
 		<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <time>{{ post.date | date_to_string }}</time></li>
 		{% endfor %}
 	</ul>
