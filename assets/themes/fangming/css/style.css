@@ -34,8 +34,8 @@ a{transition:all .5s}
 #archive h3{display:none}
 .archive li{padding-left:110px}
 .archive span{float:left;margin-left:-110px;width:110px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:13px;overflow:hidden}
-.tagbox{padding:20px 0 0}.tagbox li{float:left;list-style:none;padding-right:1em}
-.tagbox a{text-decoration:none}
+.tagbox{padding:40px 0 10px}.tagbox li{float:left;list-style:none;padding-right:1em}
+.tagbox a{text-decoration:none;color:#878c93}
 .tagbox:after{content:'.';clear:both;visibility:hidden}
 .tag-1{font-size:16px}
 .tag-2{font-size:18px}
