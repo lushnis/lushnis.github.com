@@ -44,6 +44,7 @@ a{transition:all .5s}
 #content code{font-family:Monaco,Menlo,"Courier New",monospace}
 #content a{color:#355fae;text-decoration:none}
 #content a:hover{color:#274886}
+#content img{max-width:700px}
 #content .nav{padding-top:20px;height:60px;font-size:16px}#content .nav em{display:block;color:#878c93;font-style:normal;font-size:12px}
 #content .nav a{padding:10px;border-radius:5px}
 #content .nav a:hover{background:#f1f3f5}
