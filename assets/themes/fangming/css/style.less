@@ -65,12 +65,16 @@ a { transition: all .5s; }
 }
 
 #archive {
-	padding-top: 30px; font-size: 14px;
+	margin-top: 30px; font-size: 14px;
+	 -webkit-columns: 2; -webkit-column-rule: 1px solid @colorLight;
+	 -moz-columns: 2; -moz-column-rule: 1px solid @colorLight;
+	 columns: 2; column-rule: 1px solid @colorLight;
 	li { clear: both; list-style: none; color: #FFF; line-height: 1.8; }
 		a { color: @colorLink; text-decoration: none; border-bottom: 1px solid @colorLight; }
 			a:hover { color: @colorHover; border-bottom-color: #ced8e2;  }
 		span { .l; width: 140px; color: #ced8e2; white-space: nowrap; font-weight: 200; font-size: 13px; overflow: hidden; }
 	h2 { margin-top: 1em; font-size: 14px; color: @colorSoft; }
+		h2:first-child { margin-top: 0; }
 	h3 { display: none; }
 }
 
