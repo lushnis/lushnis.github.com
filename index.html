@@ -28,7 +28,7 @@ title: Li Fangming
 		{% endif %}
 		{% if paginator.previous_page %}
 			{% if paginator.page == 2 %}
-				<a href="/" class="previous">Previous Page</a>
+				<a href="{{ HOME_PATH }}" class="previous">Previous Page</a>
 			{% else %}
 				<a href="/page{{ paginator.previous_page }}" class="previous">Previous Page</a>
 			{% endif %}
