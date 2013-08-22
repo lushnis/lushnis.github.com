@@ -33,6 +33,8 @@ a{transition:all .5s}
 .archive li{padding-left:110px}
 .archive span{float:left;margin-left:-110px;width:110px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:13px;overflow:hidden}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
+#content .post h2{font-size:26px;font-weight:700}#content .post h2 a{color:color: #222}
+#content .post h2 a:hover{color:#274886}
 #content .posttag{float:right}#content .posttag li{list-style:none;display:inline}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
