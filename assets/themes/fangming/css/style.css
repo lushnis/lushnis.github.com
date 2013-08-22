@@ -6,8 +6,10 @@ body{font:12px/1.5 Lora,Merriweather,Georgia,"Times New Roman","Hiragino Sans GB
 a{transition:all .5s}
 #wrapper{margin:0 auto;width:700px}
 #header{height:60px;border-bottom:1px solid #f1f3f5}
-#footer{padding:30px 0;color:#ced8e2}#footer a{color:#ced8e2;text-decoration:none}
+#footer{margin-top:30px;padding:30px 0;border-top:1px solid #f1f3f5;color:#ced8e2}#footer a{color:#ced8e2;text-decoration:none}
 #footer a:hover{color:#274886}
+#footer ul{height:2em}
+#footer li{padding-right:1em;float:left}
 .logo{float:left}.logo a{width:80px;height:70px;background:url(../images/sign.png) no-repeat 0 100%;background-size:80px 51px;line-height:210px;overflow:hidden;opacity:.9;float:left}
 .logo a:hover{opacity:1}
 .menu{padding-top:36px;text-transform:uppercase;float:right}.menu li{padding-left:20px;list-style:none;float:left}
