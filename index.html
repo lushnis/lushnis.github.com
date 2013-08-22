@@ -6,6 +6,15 @@ title: Li Fangming
 	<p>I'm Li Fangming (<i>李方明</i>), a Beijing based iOS/Web designer and frontend developer. A idealist, music addict, <a href="http://en.wikipedia.org/wiki/Great_Firewall" class="gfw" title="Great Firewall">GFW</a> crossover jumper.</p>
 </div>
 
+<div id="postlist">
+	{% for post in paginator.posts %}
+	<div class="post">
+		<h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
+		<div class="summary">{{ content }}</div>
+	</div>
+	{% endfor %}
+</div>
+
 <div id="list">
 	<ul>
 		{% for post in paginator.posts %}
