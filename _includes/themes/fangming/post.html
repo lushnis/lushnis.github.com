@@ -6,7 +6,7 @@
 		{% assign tags_list = page.tags %}
 		{% include JB/tags_list %}
 		{% endunless %}  
-		<a href="">Permalink</a>
+		<a rel="permalink" href="{{ page.url }}">Permalink</a>
 	</p>
 	<div class="body">
 		{{ content }}
