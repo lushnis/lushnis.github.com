@@ -22,7 +22,8 @@ a{transition:all .5s}
 #list a:hover{color:#274886;border-bottom-color:#ced8e2}
 #list h2,#list h3{font-size:20px;color:#878c93}
 #list h2{float:right;color:#f1f3f5}
-.arcive,.taglist,.categories{padding-top:30px}.arcive li,.taglist li,.categories li{color:#ced8e2}
+.archive,.taglist,.categories{padding-top:30px}.archive li,.taglist li,.categories li{color:#ced8e2}
+.archive span,.taglist span,.categories span{float:left;width:200px;white-space:noerap;font-weight:200;font-style:18px;overflow:hidden}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
