@@ -1,6 +1,7 @@
 @font-face{font-family:'fontello';src:url('../../fonts/fontello.eot?92932617');src:url('../../fonts/fontello.eot?92932617#iefix') format('embedded-opentype'),url('../../fonts/fontello.woff?92932617') format('woff'),url('../../fonts/fontello.ttf?92932617') format('truetype'),url('../../fonts/fontello.svg?92932617#fontello') format('svg');font-weight:normal;font-style:normal}*{margin:0;padding:0}
 .l{float:left}
 .r{float:right}
+.icon{font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
 body{font:12px/1.5 Lora,Merriweather,Georgia,"Times New Roman","Hiragino Sans GB",serif}
 a{transition:all .5s}
 #wrapper{margin:0 auto;width:700px}
@@ -44,4 +45,6 @@ a{transition:all .5s}
 #content .nav a{padding:10px;border-radius:5px}
 #content .nav a:hover{background:#f1f3f5}
 #content .previous{float:left}
+#content .previous:before{content:"l";font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
 #content .next{text-align:right;float:right}
+#content .next:before{content:"r";font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
