@@ -1,6 +1,9 @@
 ---
 layout: post
+title: CSS background-positon 属性中百分比数值的使用
 categories: ['text']
+tags: ['CSS']
+
 ---
 
 大部分人应该习惯于使用描述性词语（left、top、center…）或者数值（20px、1em…）对背景图片定位，百分比可能比较少用，常见的有50%、100%等数值。例如希望背景图片水平居中，距离容器顶部20px，可以使用
