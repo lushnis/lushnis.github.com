@@ -20,7 +20,7 @@ a{transition:all .5s}
 #list time{color:#ced8e2;font-style:italic;font-size:18px;font-weight:300}
 #list a{color:#355fae;text-decoration:none;border-bottom:1px solid #f1f3f5}
 #list a:hover{color:#274886;border-bottom-color:#ced8e2}
-#archive{margin-top:30px;font-size:14px;-webkit-columns:2;-webkit-column-rule:1px solid #f1f3f5;-moz-columns:2;-moz-column-rule:1px solid #f1f3f5;columns:2;column-rule:1px solid #f1f3f5}#archive li{clear:both;list-style:none;color:#fff;line-height:1.8}
+#archive{margin-top:30px;font-size:14px;-webkit-columns:2;-webkit-column-rule:1px solid #f1f3f5;-webkit-column-gap:3em;-moz-columns:2;-moz-column-rule:1px solid #f1f3f5;-moz-column-gap:3em;columns:2;column-rule:1px solid #f1f3f5;column-gap:3em}#archive li{clear:both;list-style:none;color:#fff;line-height:1.8}
 #archive a{color:#355fae;text-decoration:none;border-bottom:1px solid #f1f3f5}
 #archive a:hover{color:#274886;border-bottom-color:#ced8e2}
 #archive span{float:left;width:140px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:13px;overflow:hidden}
