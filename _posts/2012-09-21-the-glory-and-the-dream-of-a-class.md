@@ -2,6 +2,7 @@
 layout: post
 title: 一个阶层的光荣与梦想
 categories: ['text']
+tags: ['History','Reading']
 
 ---
 推荐傅国涌先生的《[一个阶层的光荣与梦想](http://blog.sina.com.cn/s/blog_77795fde01016530.html)》，长知识，长见识。

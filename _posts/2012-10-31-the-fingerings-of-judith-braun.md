@@ -2,12 +2,15 @@
 layout: post
 title: The Fingerings of Judith Braun
 categories: ['image']
+tag: ['Creative']
 
 ---
 
 纽约艺术家 Judith Braun，他的作品就是用手指在墙上涂抹。
 
 ![image](http://blog.fangming.li/images/blog/judith-braun-01.jpg)
+
+<!--more-->
 
 ![image](http://blog.fangming.li/images/blog/judith-braun-02.jpg)
 

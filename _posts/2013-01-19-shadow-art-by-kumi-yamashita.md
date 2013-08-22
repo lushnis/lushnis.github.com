@@ -2,12 +2,15 @@
 layout: post
 title: Kumi Yamashita 的阴影艺术
 categories: ['image']
+tags: ['Creative']
 
 ---
 
 日本艺术家 Kumi Yamashita 作品。
 
 ![image](http://blog.fangming.li/images/blog/kumi-yamashita-01.jpg)
+
+<!--more-->
 
 ![image](http://blog.fangming.li/images/blog/kumi-yamashita-02.jpg)
 
