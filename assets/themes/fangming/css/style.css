@@ -26,8 +26,8 @@ a{transition:all .5s}
 #archive h2{margin-top:1em;font-size:14px;color:#878c93}
 #archive h2:first-child{margin-top:0}
 #archive h3{display:none}
-.archive li{padding-left:70px}
-.archive span{float:left;margin-left:-70px;width:70px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:13px;overflow:hidden}
+.archive li{padding-left:110px}
+.archive span{float:left;margin-left:-110px;width:110px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:13px;overflow:hidden}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
