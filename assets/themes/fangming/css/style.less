@@ -99,9 +99,14 @@ a { transition: all .5s; }
 }
 
 .tagbox {
-	padding: 2em 0 0;
-	li { float: left; }
+	padding: 20px 0 0;
+	li { .l; list-style: none; padding-right: 1em; }
+	a { text-decoration: none; }
 }
+.tagbox:after { content: '.'; clear: both; visibility: hidden; }
+.tag-1 { font-size: 16px; }
+.tag-2 { font-size: 18px; }
+.tag-3 { font-size: 20px; }
 
 #content {
 	padding-top: 30px;

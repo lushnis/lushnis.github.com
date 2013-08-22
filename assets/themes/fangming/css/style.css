@@ -34,7 +34,12 @@ a{transition:all .5s}
 #archive h3{display:none}
 .archive li{padding-left:110px}
 .archive span{float:left;margin-left:-110px;width:110px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:13px;overflow:hidden}
-.tagbox{padding:2em 0 0}.tagbox li{float:left}
+.tagbox{padding:20px 0 0}.tagbox li{float:left;list-style:none;padding-right:1em}
+.tagbox a{text-decoration:none}
+.tagbox:after{content:'.';clear:both;visibility:hidden}
+.tag-1{font-size:16px}
+.tag-2{font-size:18px}
+.tag-3{font-size:20px}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .post h2{padding-top:1em;font-size:26px;font-weight:700}#content .post h2 a{color:#222}
 #content .post h2 a:hover{color:#274886}

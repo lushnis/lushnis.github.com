@@ -1,4 +1,4 @@
-version: 2013082230
+version: 2013082231
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year/:month/:title.html
