@@ -42,10 +42,9 @@ a{transition:all .5s}
 #content a{color:#355fae;text-decoration:none}
 #content a:hover{color:#274886}
 #content .nav{padding-top:20px;height:60px;font-size:16px}#content .nav em{display:block;color:#878c93;font-style:normal;font-size:12px}
-#content .nav a{padding:10px 10px 10px 30px;border-radius:5px}
+#content .nav a{padding:10px;border-radius:5px}
 #content .nav a:hover{background:#f1f3f5}
-#content .nav a:before{margin:5px 0 0 -30px;font-size:22px;font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
-#content .previous{float:left}
-#content .previous:before{content:"l"}
-#content .next{text-align:right;float:right}
-#content .next:before{content:"r"}
+#content .previous{float:left;padding-left:30px}
+#content .previous:before{content:"l";margin:5px 0 0 -30px;font-size:22px;font-family:"fontello";font-style:normal;font-weight:normal;speak:none;float:left}
+#content .next{padding-right:30px;text-align:right;float:right}
+#content .next:before{content:"r";margin:5px 0 0 -30px;font-size:22px;font-family:"fontello";font-style:normal;font-weight:normal;speak:none;float:right}

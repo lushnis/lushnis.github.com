@@ -113,12 +113,11 @@ a { transition: all .5s; }
 	.nav {
 		padding-top: 20px; height: 60px; font-size: 16px;
 		em { display: block; color: @colorSoft; font-style: normal; font-size: 12px; }
-		a { padding: 10px 10px 10px 30px; border-radius: 5px; }
+		a { padding: 10px; border-radius: 5px; }
 			a:hover { background: @colorLight; }
-			a:before { margin: 5px 0 0 -30px; font-size: 22px; .icon; }
 	}
-		.previous { .l; }
-			.previous:before { content: "l"; }
-		.next { text-align: right; .r; }
-			.next:before { content: "r"; }
+		.previous { .l; padding-left: 30px; }
+			.previous:before { content: "l"; margin: 5px 0 0 -30px; font-size: 22px; .icon; .l; }
+		.next { padding-right: 30px; text-align: right; .r; }
+			.next:before { content: "r"; margin: 5px 0 0 -30px; font-size: 22px; .icon; .r; }
 }
