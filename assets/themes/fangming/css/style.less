@@ -103,7 +103,6 @@ a { transition: all .5s; }
 		padding-top: 1em; font-size: 26px; font-weight: 700;
 		a { color: #222; }
 		a:hover { color: @colorHover; }
-		.more:before { padding: 0 5px 0 10px; content: "p"; .icon; }
 	}
 	.posttag {
 		.r;
@@ -113,7 +112,7 @@ a { transition: all .5s; }
 		color: @colorSoft;
 		a { color: @colorSoft; }
 			a:hover { color: @colorHover; }
-		a[rel="permalink"]:before { padding: 0 5px 0 10px; content: "p"; .icon; }
+		a[rel="permalink"]:before, .more:before { padding: 0 5px 0 10px; content: "p"; .icon; }
 	}
 	.body { padding-top: 20px; color: #444; font-size: 16px; }
 	p { margin-bottom: 1em; }
