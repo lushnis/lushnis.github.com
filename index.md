@@ -4,7 +4,7 @@ title: Li Fangming
 ---
 
 <div id="intro">
-	<p>I'm Li Fangming (<i>李方明</i>), a Beijing based iOS/Web designer and frontend developer. A idealist, music addict, <a href="" class="gfw">GFW</a> crossover jumper, husband and will be a father soon.</p>
+	<p>I'm Li Fangming (<i>李方明</i>), a Beijing based iOS/Web designer and frontend developer. A idealist, music addict, <a href="" class="gfw">GFW</a> crossover jumper.</p>
 </div>
 <div id="list">
 	<ul>
