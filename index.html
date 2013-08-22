@@ -10,7 +10,7 @@ title: Li Fangming
 	{% for post in paginator.posts %}
 	<div class="post">
 		<h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
-		<div class="summary">{{ post.content }}</div>
+		<div class="summary">{{ post.excerpt }}</div>
 	</div>
 	{% endfor %}
 </div>
