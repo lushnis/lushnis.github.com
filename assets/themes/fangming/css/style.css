@@ -13,7 +13,7 @@ a{transition:all .5s}
 .menu{padding-top:36px;text-transform:uppercase;float:right}.menu li{padding-left:20px;list-style:none;float:left}
 .menu a{color:#878c93;text-decoration:none}
 .menu a:hover{color:#274886}
-#intro{padding:2em 0 1em;font-size:26px;font-family:;font-weight:300;color:#878c93}#intro i{font-size:26px;font-style:normal;font-family:Songti,SimSun,serif}
+#intro{padding:2em 0 0;font-size:26px;font-family:;font-weight:300;color:#878c93}#intro i{font-size:26px;font-style:normal;font-family:Songti,SimSun,serif}
 #intro a{color:#999;text-decoration:none}
 #intro a:hover{color:#717171}
 #intro .gfw{cursor:help}
@@ -33,8 +33,9 @@ a{transition:all .5s}
 .archive li{padding-left:110px}
 .archive span{float:left;margin-left:-110px;width:110px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:13px;overflow:hidden}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
-#content .post h2{font-size:26px;font-weight:700}#content .post h2 a{color:#222}
+#content .post h2{padding-top:1em;font-size:26px;font-weight:700}#content .post h2 a{color:#222}
 #content .post h2 a:hover{color:#274886}
+#content .post h2 .more:before{padding:0 5px 0 10px;content:"p";font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
 #content .posttag{float:right}#content .posttag li{list-style:none;display:inline}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}

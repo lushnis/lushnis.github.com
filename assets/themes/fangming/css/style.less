@@ -59,7 +59,7 @@ a { transition: all .5s; }
 
 
 #intro {
-	padding: 2em 0 1em; font-size: 26px; font-family: ; font-weight: 300; color: @colorSoft;
+	padding: 2em 0 0; font-size: 26px; font-family: ; font-weight: 300; color: @colorSoft;
 	i { font-size: 26px; font-style: normal; font-family: Songti, SimSun, serif; }
 	a { color: #999; text-decoration: none; }
 		a:hover { color: #717171; }
@@ -100,9 +100,10 @@ a { transition: all .5s; }
 	padding-top: 30px;
 	h1 { font-size: 26px; font-weight: 700; color: #222; }
 	.post h2 {
-		font-size: 26px; font-weight: 700;
+		padding-top: 1em; font-size: 26px; font-weight: 700;
 		a { color: #222; }
 		a:hover { color: @colorHover; }
+		.more:before { padding: 0 5px 0 10px; content: "p"; .icon; }
 	}
 	.posttag {
 		.r;
