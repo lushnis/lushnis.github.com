@@ -22,13 +22,13 @@ title: Li Fangming
 
 	<div class="nav">
 		{% if paginator.page == 2 %}
-			2222
+			=2222
 		{% else %}
-			3333
+			=444
 		{% endif %}
 		{% if paginator.previous_page %}
 			{% if paginator.page == 2 %}
-				<a href="{{ HOME_PATH }}" class="previous">Previous Page</a>
+				<a href="../" class="previous">Previous Page</a>
 			{% else %}
 				<a href="/page{{ paginator.previous_page }}" class="previous">Previous Page</a>
 			{% endif %}
