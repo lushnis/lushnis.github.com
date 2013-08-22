@@ -4,6 +4,8 @@ title: About
 ---
 
 <h1 class="pagetitle">About</h1>
+<div id="content">
+	<div class="body">
 
 男，帅，啤酒控。生于八十年代，山东潍坊人。
 
@@ -18,3 +20,6 @@ title: About
 勤购书，不求甚读。纵情声光画影，日与 David Byrne、James Brown、窦唯游，夜尝伴以 Quentin、Scorsese、Robert De-Niro 之徒。
 
 人言其性温和敦厚，有上古遗风，颇中肯。
+
+	</div>
+</div>
