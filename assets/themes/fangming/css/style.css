@@ -20,10 +20,10 @@ a{transition:all .5s}
 #list time{color:#ced8e2;font-style:italic;font-size:18px;font-weight:300}
 #list a{color:#355fae;text-decoration:none;border-bottom:1px solid #f1f3f5}
 #list a:hover{color:#274886;border-bottom-color:#ced8e2}
-#list h2,#list h3{font-size:20px;color:#878c93}
-#list h2{float:right;color:#f1f3f5}
-.archive,.taglist,.categories{padding-top:30px}.archive li,.taglist li,.categories li{clear:both;color:#fff}
-.archive span,.taglist span,.categories span{float:left;width:200px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:18px;overflow:hidden}
+#archive{padding-top:30px;font-size:14px}#archive li{clear:both;padding:4px 0;list-style:none;color:#fff}
+#archive span{float:left;width:140px;color:#ced8e2;white-space:nowrap;font-weight:200;font-size:12px;overflow:hidden}
+#archive h2,#archive h3{font-size:20px;color:#878c93}
+#archive h2{float:right;color:#f1f3f5}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
