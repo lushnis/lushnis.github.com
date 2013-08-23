@@ -2,6 +2,7 @@
 layout: post
 title: 搬家到 Blogger.com
 categories: ['text']
+tag: [Blogger]
 
 ---
 

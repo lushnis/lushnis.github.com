@@ -2,7 +2,7 @@
 layout: post
 title: 开启 Firefox 的单窗口模式
 categories: ['text']
-tags: [firefox]
+tags: ['Firefox','Browser']
 
 ---
 

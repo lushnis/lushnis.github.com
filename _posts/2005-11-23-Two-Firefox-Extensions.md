@@ -2,6 +2,7 @@
 layout: post
 title: 两个 Firefox 扩展
 categories: ['text']
+tag: [Browser,Firefox]
 
 ---
 

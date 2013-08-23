@@ -2,6 +2,7 @@
 layout: post
 title: 利用代理脚本访问维基百科
 categories: ['text']
+tags: [GFW,Wikipedia]
 
 ---
 

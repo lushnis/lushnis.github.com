@@ -2,6 +2,7 @@
 layout: post
 title: Bad Taste But I Smell Good
 categories: ['music']
+tags: [Music]
 
 ---
 
