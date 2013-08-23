@@ -11,6 +11,8 @@ Classics 拥有华丽的界面，与 MAC 上著名的 [Delicious Library](http:/
 
 Classics 支持 PDF 格式的电子书，所以完全可以自己制作资源，于是我将这部《李清照词全集》制作了出来。李清照作为宋词的巅峰高手，炼字精到，生僻的字很少；而且她的词多为小令，篇幅短小，十分适合在 iPhone 上阅读。
 
+<!--more-->
+
 下载：
 
 [《李清照词全集》form Box.net](http://www.box.net/shared/static/jjfbnjm986.zip)

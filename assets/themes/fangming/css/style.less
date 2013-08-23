@@ -1,13 +1,12 @@
-
-
-
+/*
+	Style for blog.fangming.li
+	by lushnis
+*/
 
 @colorLight: #F1F3F5;
 @colorSoft: #878c93;
 @colorLink: #355fAE;
 @colorHover: #274886;
-
-
 
 @font-face {
 	font-family: 'fontello';
@@ -154,7 +153,8 @@ a { transition: all .5s; }
 			a:hover { background: @colorLight; }
 	}
 		.previous { .l; padding-left: 30px !important; }
-			.previous:before { content: "l"; margin: 5px 0 0 -20px; font-size: 22px; .icon; .l; }
+			.previous:before { content: "l"; margin: -6px 0 0 -20px; font-size: 22px; .icon; .l; }
 		.next { padding-right: 30px !important; text-align: right; .r; }
-			.next:before { content: "r"; margin: 5px -20px 0 0px; font-size: 22px; .icon; .r; }
+			.next:before { content: "r"; margin: -6px -20px 0 0px; font-size: 22px; .icon; .r; }
+		.postnav a:before { margin-top: 5px !important; }
 }
