@@ -8,6 +8,8 @@ tags: [GFW,Wikipedia]
 
 说是这周三有希望解禁，但是现在还没有看到什么变化。这里有一个在Firefox下用代理脚本访问的解决方案，权且用一下吧。
 
+<!--more-->
+
 	function FindProxyForURL(url, host) {
 		url = url.toLowerCase();
 		host = host.toLowerCase();
