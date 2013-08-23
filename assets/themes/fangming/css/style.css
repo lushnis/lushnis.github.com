@@ -38,22 +38,14 @@ a{transition:all .5s}
 .tagbox a{text-decoration:none;color:#878c93}
 .tagbox a:hover{color:#274886}
 .tagbox:after{content:'.';clear:both;display:block;visibility:hidden}
-.tag-1{font-size:9px}
-.tag-2{font-size:10px}
-.tag-3{font-size:11px}
-.tag-4{font-size:12px}
-.tag-5{font-size:13px}
-.tag-6{font-size:14px}
-.tag-7{font-size:15px}
-.tag-8{font-size:16px}
-.tag-9{font-size:17px}
-.tag-10{font-size:18px}
-.tag-11{font-size:19px}
-.tag-12{font-size:20px}
-.tag-13{font-size:21px}
-.tag-14{font-size:22px}
-.tag-15{font-size:23px}
-.tag-16{font-size:24px}
+.tag-1,.tag-2{font-size:14px}
+.tag-3,.tag-4{font-size:15px}
+.tag-5,.tag-6{font-size:16px}
+.tag-7,.tag-8{font-size:17px}
+.tag-9,.tag-10{font-size:18px}
+.tag-11,.tag-12{font-size:19px}
+.tag-13,.tag-14{font-size:20px}
+.tag-15,.tag-16{font-size:21px}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .post h2{padding-top:1em;font-size:26px;font-weight:700}#content .post h2 a{color:#222}
 #content .post h2 a:hover{color:#274886}
