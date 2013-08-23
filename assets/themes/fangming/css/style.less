@@ -102,16 +102,16 @@ a { transition: all .5s; }
 	li { .l; height: 26px; padding-right: 1em; list-style: none; white-space: nowrap; line-height: 26px; overflow: hidden; }
 	a { text-decoration: none; color: @colorSoft; }
 		a:hover { color: @colorHover; }
+	.tag-1, .tag-2 { font-size: 14px; }
+	.tag-3, .tag-4 { font-size: 15px; }
+	.tag-5, .tag-6 { font-size: 16px; }
+	.tag-7, .tag-8 { font-size: 17px; }
+	.tag-9, .tag-10 { font-size: 18px; }
+	.tag-11, .tag-12 { font-size: 19px; }
+	.tag-13, .tag-14 { font-size: 20px; }
+	.tag-15, .tag-16 { font-size: 21px; }
 }
 .tagbox:after { content: '.'; clear: both; display: block; visibility: hidden; }
-.tag-1, .tag-2 { font-size: 14px; }
-.tag-3, .tag-4 { font-size: 15px; }
-.tag-5, .tag-6 { font-size: 16px; }
-.tag-7, .tag-8 { font-size: 17px; }
-.tag-9, .tag-10 { font-size: 18px; }
-.tag-11, .tag-12 { font-size: 19px; }
-.tag-13, .tag-14 { font-size: 20px; }
-.tag-15, .tag-16 { font-size: 21px; }
 
 #content {
 	padding-top: 30px;
@@ -123,7 +123,8 @@ a { transition: all .5s; }
 	}
 	.posttag {
 		.r;
-		li { list-style: none; display: inline; }
+		li { padding-left: 1em; list-style: none; display: inline; }
+		a { color: @colorSoft; }
 	}
 	.meta {
 		color: @colorSoft;

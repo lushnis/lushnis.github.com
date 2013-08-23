@@ -37,19 +37,20 @@ a{transition:all .5s}
 .tagbox{padding:40px 0 10px}.tagbox li{float:left;height:26px;padding-right:1em;list-style:none;white-space:nowrap;line-height:26px;overflow:hidden}
 .tagbox a{text-decoration:none;color:#878c93}
 .tagbox a:hover{color:#274886}
+.tagbox .tag-1,.tagbox .tag-2{font-size:14px}
+.tagbox .tag-3,.tagbox .tag-4{font-size:15px}
+.tagbox .tag-5,.tagbox .tag-6{font-size:16px}
+.tagbox .tag-7,.tagbox .tag-8{font-size:17px}
+.tagbox .tag-9,.tagbox .tag-10{font-size:18px}
+.tagbox .tag-11,.tagbox .tag-12{font-size:19px}
+.tagbox .tag-13,.tagbox .tag-14{font-size:20px}
+.tagbox .tag-15,.tagbox .tag-16{font-size:21px}
 .tagbox:after{content:'.';clear:both;display:block;visibility:hidden}
-.tag-1,.tag-2{font-size:14px}
-.tag-3,.tag-4{font-size:15px}
-.tag-5,.tag-6{font-size:16px}
-.tag-7,.tag-8{font-size:17px}
-.tag-9,.tag-10{font-size:18px}
-.tag-11,.tag-12{font-size:19px}
-.tag-13,.tag-14{font-size:20px}
-.tag-15,.tag-16{font-size:21px}
 #content{padding-top:30px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .post h2{padding-top:1em;font-size:26px;font-weight:700}#content .post h2 a{color:#222}
 #content .post h2 a:hover{color:#274886}
-#content .posttag{float:right}#content .posttag li{list-style:none;display:inline}
+#content .posttag{float:right}#content .posttag li{padding-left:1em;list-style:none;display:inline}
+#content .posttag a{color:#878c93}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
 #content .meta a[rel="permalink"]:before,#content .meta .more:before{padding:0 5px 0 10px;content:"p";font-family:"fontello";font-style:normal;font-weight:normal;speak:none}
