@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: ['movie']
+tags: [Movie,Typography]
 ---
 
 ![image](http://fangming.li/wimgs/blog/pulp_fiction_typography.jpg)

@@ -1,6 +1,8 @@
 ---
 layout: post
+title: Parallels Desktop 内存分配错误
 categories: ['text']
+tags: [Tools]
 ---
 
 启动 Parallels Desktop 时候偶尔会出现这样的错误：

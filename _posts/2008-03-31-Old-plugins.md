@@ -1,6 +1,9 @@
 ---
 layout: post
+title: 让老版本的扩展应用运行在新本浏览器上
 categories: ['text']
+tags: [Browser]
+
 ---
 
 浏览器要升级，新版本带来的新特性让人忍不住想尝鲜，那些旧的扩展（插件)怎么办？

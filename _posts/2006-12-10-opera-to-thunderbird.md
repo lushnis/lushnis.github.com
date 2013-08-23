@@ -2,6 +2,8 @@
 layout: post
 title: 讲 Opera M2 邮件文件转换至 ThunderBird
 categories: ['text']
+tags: [Browser,Opera,Thunderbird]
+
 ---
 
 Opera的[M2](http://www.opera.com/products/desktop/m2/)与Mozilla的[ThunderBird](http://www.mozilla.com/en-US/thunderbird/)都是很不错的免费邮件客户端软件。我前段时间一直使用M2，因为公司邮件服务器配置更改，导致发不出邮件，所以想试试ThunderBird（后来知道不是邮件客户端的问题），所以从网上找了一下将M2的邮件导出到ThunderBird的方法。其实操作很简单，我是这么理解的：M2支持将邮件导出为.mbs文件，事实上其文件结构是UNIX通用的邮件格式，而这种文件格式对ThunderBird来说也是可用的。
