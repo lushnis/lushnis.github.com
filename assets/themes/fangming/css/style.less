@@ -39,6 +39,7 @@ a { transition: all .5s; }
 	li {
 		list-style: none; text-transform: uppercase;
 		a { color: @colorSoft; text-decoration: none; }
+			a:hover { color: @colorHover; }
 		a:before { padding-right: 10px; text-transform: lowercase; .icon; }
 			a[href*="about"]:before { content: "a"; }
 			a[href*="twitter"]:before { content: "t"; }
@@ -130,7 +131,6 @@ a { transition: all .5s; }
 		padding-top: 1em; font-size: 26px; font-weight: 700;
 		a { color: #222; }
 		a:hover { color: @colorHover; }
-		.body { padding-top: 20px; }
 	}
 	.posttag {
 		.r;
@@ -151,6 +151,7 @@ a { transition: all .5s; }
 		h3, h4 { font-size: 16px; color: @colorSoft; }
 		h5, h6 { font-size: 16px; color: @colorSoft; }
 	}
+	.post .body { padding-top: 20px; }
 	p { margin-bottom: .8em; }
 	blockquote { margin: 0 1em 1em .5em; padding-left: 1em; border-left: 4px solid @colorLight; color: @colorSoft; }
 	pre { margin-bottom: 1em; padding: 1em; border-left: 2px solid #ced8e2; background: @colorLight; font-size: 14px; color: #614992; line-height: 1.4; }
