@@ -3,7 +3,7 @@
 .r{float:right}
 .clear:after{content:" ";display:table;clear:both}
 .icon{font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
-body{font:12px/1.5 Lora,Merriweather,Georgia,"Times New Roman","Hiragino Sans GB",serif}
+body{font:12px/1.5 Merriweather,Palatino,"Palatino Linotype",Georgia,"Times New Roman","Hiragino Sans GB",serif}
 a{transition:all .5s}
 #wrapper{position:relative;margin:0 auto;padding-left:200px;width:500px}
 #header{position:fixed;margin-left:-200px;top:90px}#header ul{padding-left:20px;line-height:2}
@@ -59,7 +59,7 @@ a{transition:all .5s}
 #content .post h2{padding-top:1em;font-size:26px;font-weight:700}#content .post h2 a{color:#222}
 #content .post h2 a:hover{color:#274886}
 #content .posttag{float:right}#content .posttag li{padding-left:1em;list-style:none;display:inline}
-#content .posttag a{color:#f1f3f5}
+#content .posttag a{color:#878c93}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
 #content .meta a[rel="permalink"]:before,#content .meta .more:before{padding:0 5px 0 10px;content:"p";font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
