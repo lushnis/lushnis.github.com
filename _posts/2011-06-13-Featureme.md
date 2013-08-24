@@ -1,6 +1,8 @@
 ---
 layout: post
 categories: ['link']
+tags: [Resource]
+
 ---
 
 ###[http://www.featureme.co.uk](http://www.featureme.co.uk)

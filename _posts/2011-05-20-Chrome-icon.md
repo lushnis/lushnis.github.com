@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: ['image']
+tags: [Design]
 ---
 
 ![image](http://fangming.li/wimgs/blog/chrome-icon.jpg)

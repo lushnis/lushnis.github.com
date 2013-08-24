@@ -6,7 +6,7 @@ tags: ['Movie']
 
 ---
 
-![image](../../assets/images/still-life.jpg)
+![image](/assets/images/still-life.jpg)
 
 《三峡好人》应该是06年最好的华语电影。如果只看新闻联播，我们永远不会真正了解三峡人的生活状态。是贾樟柯把镜头对准了他们，向我们展示了真实的社会。
 

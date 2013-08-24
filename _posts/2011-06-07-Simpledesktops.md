@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: ['link']
+tags: [Resource]
 ---
 
 ###[http://simpledesktops.com/](http://simpledesktops.com/)
