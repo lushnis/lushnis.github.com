@@ -6,7 +6,7 @@
 body{font:12px/1.5 Lora,Merriweather,Georgia,"Times New Roman","Hiragino Sans GB",serif}
 a{transition:all .5s}
 #wrapper{position:relative;margin:0 auto;padding-left:200px;width:500px}
-#header{position:fixed;margin-left:-200px;top:20px}
+#header{position:fixed;margin-left:-200px;top:20px}#header li a:before{padding-right:10px;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
 .logo a{width:160px;height:70px;line-height:90px;font-size:70px;text-decoration:none;letter-spacing:-20px;text-indent:-20px;color:#111;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
 .logo a:hover{color:#274886}
 #menu{height:60px;border-bottom:1px solid #f1f3f5}
