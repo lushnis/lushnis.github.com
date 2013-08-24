@@ -28,7 +28,7 @@ a{transition:all .5s}
 #intro a{color:#999;text-decoration:none}
 #intro a:hover{color:#717171}
 #intro .gfw{cursor:help}
-.pagetitle{padding:2em 0 0;font-size:26px;font-weight:300;color:#878c93;text-align:center}
+.pagetitle{padding:2em 0 0;font-size:26px;font-weight:300;color:#878c93}
 #list{font-size:22px}#list li{padding:9px 0;list-style:none}
 #list time{color:#ced8e2;font-style:italic;font-size:18px;font-weight:300}
 #list a{color:#355fae;text-decoration:none;border-bottom:1px solid #f1f3f5}
