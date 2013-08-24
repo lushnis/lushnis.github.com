@@ -9,10 +9,10 @@ a{transition:all .5s}
 #header{position:fixed;margin-left:-200px;top:90px}#header ul{padding-left:20px;line-height:2}
 #header li{list-style:none;text-transform:uppercase}#header li a{color:#878c93;text-decoration:none}
 #header li a:before{padding-right:10px;text-transform:lowercase;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
+#header li a[href*="about"]:before{content:"a"}
 #header li a[href*="twitter"]:before{content:"t"}
-#header li a[href*="dribbble"]:before{content:"b"}
 #header li a[href*="weibo"]:before{content:"w"}
-#header li a[href*="twitter"]:before{content:"t"}
+#header li a[href*="dribbble"]:before{content:"d";font-size:12px}
 .logo a{width:160px;height:70px;line-height:90px;font-size:70px;text-decoration:none;letter-spacing:-20px;text-indent:-20px;color:#111;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
 .logo a:hover{color:#274886}
 #menu{height:60px;border-bottom:1px solid #f1f3f5}#menu ul{padding-top:36px;text-transform:uppercase;float:right}

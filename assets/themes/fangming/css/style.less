@@ -40,10 +40,10 @@ a { transition: all .5s; }
 		list-style: none; text-transform: uppercase;
 		a { color: @colorSoft; text-decoration: none; }
 		a:before { padding-right: 10px; text-transform: lowercase; .icon; }
+			a[href*="about"]:before { content: "a"; }
 			a[href*="twitter"]:before { content: "t"; }
-			a[href*="dribbble"]:before { content: "b"; }
 			a[href*="weibo"]:before { content: "w"; }
-			a[href*="twitter"]:before { content: "t"; }
+			a[href*="dribbble"]:before { content: "d"; font-size: 12px; }
 	}
 }
 
