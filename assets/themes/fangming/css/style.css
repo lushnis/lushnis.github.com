@@ -58,11 +58,11 @@ a{transition:all .5s}
 #content{padding-top:50px}#content h1{font-size:26px;font-weight:700;color:#222}
 #content .post h2{padding-top:1em;font-size:26px;font-weight:700}#content .post h2 a{color:#222}
 #content .post h2 a:hover{color:#274886}
-#content .posttag{float:right}#content .posttag li{padding-left:1em;list-style:none;display:inline}
+#content .posttag{font-size:.r}#content .posttag li{padding-left:.5em;list-style:none;display:inline}
 #content .posttag a{color:#878c93}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
-#content .meta a[rel="permalink"]:before,#content .meta .more:before{padding:0 5px 0 10px;content:"p";font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
+#content .meta a[rel="permalink"]:before,#content .meta .more:before{padding:0 5px 0 10px;font-size:10px;content:"p";font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
 #content .body{padding-top:40px;color:#444;font-size:14px}#content .body ul,#content .body ol{padding:0 0 1em 2em}
 #content .body h2,#content .body h3,#content .body h4,#content .body h5,#content .body h6{margin-bottom:.8em}
 #content .body h2{font-size:16px;color:#222}
@@ -72,7 +72,8 @@ a{transition:all .5s}
 #content p{margin-bottom:.8em}
 #content blockquote{margin:0 1em 1em .5em;padding-left:1em;border-left:4px solid #f1f3f5;color:#878c93}
 #content pre{margin-bottom:1em;padding:1em;border-left:2px solid #ced8e2;background:#f1f3f5;font-size:14px;color:#614992;line-height:1.4}
-#content code{font-family:Monaco,Menlo,"Courier New",monospace}
+#content code{padding:0 5px;background:#f1f3f5;font-family:Monaco,Menlo,"Courier New",monospace}
+#content pre code{padding:0;background:transparent}
 #content a{color:#355fae;text-decoration:none}
 #content a:hover{color:#274886}
 #content img{max-width:500px}

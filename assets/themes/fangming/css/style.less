@@ -133,15 +133,15 @@ a { transition: all .5s; }
 		a:hover { color: @colorHover; }
 	}
 	.posttag {
-		.r;
-		li { padding-left: 1em; list-style: none; display: inline; }
+		font-size: .r;
+		li { padding-left: .5em; list-style: none; display: inline; }
 		a { color: @colorSoft; }
 	}
 	.meta {
 		color: @colorSoft;
 		a { color: @colorSoft; }
 			a:hover { color: @colorHover; }
-		a[rel="permalink"]:before, .more:before { padding: 0 5px 0 10px; content: "p"; .icon; }
+		a[rel="permalink"]:before, .more:before { padding: 0 5px 0 10px; font-size: 10px; content: "p"; .icon; }
 	}
 	.body {
 		padding-top: 40px; color: #444; font-size: 14px;
@@ -155,7 +155,8 @@ a { transition: all .5s; }
 	p { margin-bottom: .8em; }
 	blockquote { margin: 0 1em 1em .5em; padding-left: 1em; border-left: 4px solid @colorLight; color: @colorSoft; }
 	pre { margin-bottom: 1em; padding: 1em; border-left: 2px solid #ced8e2; background: @colorLight; font-size: 14px; color: #614992; line-height: 1.4; }
-	code { font-family: Monaco, Menlo, "Courier New", monospace; }
+	code { padding: 0 5px; background: @colorLight; font-family: Monaco, Menlo, "Courier New", monospace; }
+		pre code { padding: 0; background: transparent; }
 	a { color: @colorLink; text-decoration: none; }
 		a:hover { color: @colorHover; }
 	img { max-width: 500px; }
