@@ -1,17 +1,19 @@
 @font-face{font-family:'iconfont';src:url('../../../fonts/fangming.eot?92932617');src:url('../../../fonts/fangming.eot?92932617#iefix') format('embedded-opentype'),url('../../../fonts/fangming.woff?92932617') format('woff'),url('../../../fonts/fangming.ttf?92932617') format('truetype'),url('../../../fonts/fangming.svg?92932617#iconfont') format('svg');font-weight:normal;font-style:normal}*{margin:0;padding:0}
 .l{float:left}
 .r{float:right}
+.clear:after{content:" ";display:table;clear:both}
 .icon{font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
 body{font:12px/1.5 Lora,Merriweather,Georgia,"Times New Roman","Hiragino Sans GB",serif}
 a{transition:all .5s}
 #wrapper{position:relative;margin:0 auto;padding-left:200px;width:500px}
-#header{height:60px;border-bottom:1px solid #f1f3f5}
+#header{position:fixed;margin-left:-200px;top:20px}
+.logo a{width:160px;height:70px;line-height:90px;font-size:70px;text-decoration:none;letter-spacing:-20px;text-indent:-20px;color:#111;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
+.logo a:hover{color:#274886}
+#menu{height:60px;border-bottom:1px solid #f1f3f5}
 #footer{margin-top:30px;padding:30px 0;border-top:1px solid #f1f3f5;color:#ced8e2}#footer a{color:#ced8e2;text-decoration:none}
 #footer a:hover{color:#274886}
 #footer ul{height:2em}
 #footer li{padding-right:1em;list-style:none;float:left}
-.logo{float:left}.logo a{width:160px;height:70px;line-height:90px;font-size:70px;text-decoration:none;letter-spacing:-20px;text-indent:-20px;color:#111;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none;float:left}
-.logo a:hover{color:#274886}
 .menu{padding-top:36px;text-transform:uppercase;float:right}.menu li{padding-left:20px;list-style:none;float:left}
 .menu a{color:#878c93;text-decoration:none}
 .menu a:hover{color:#274886}
@@ -54,23 +56,23 @@ a{transition:all .5s}
 #content .meta{color:#878c93}#content .meta a{color:#878c93}
 #content .meta a:hover{color:#274886}
 #content .meta a[rel="permalink"]:before,#content .meta .more:before{padding:0 5px 0 10px;content:"p";font-family:"iconfont";font-style:normal;font-weight:normal;speak:none}
-#content .body{padding-top:20px;color:#444;font-size:16px}#content .body ul,#content .body ol{padding:0 0 1em 2em}
+#content .body{padding-top:20px;color:#444;font-size:14px}#content .body ul,#content .body ol{padding:0 0 1em 2em}
 #content .body h2,#content .body h3,#content .body h4,#content .body h5,#content .body h6{margin-bottom:.8em}
 #content .body h2{font-size:16px;color:#222}
 #content .body h3,#content .body h4{font-size:16px;color:#878c93}
 #content .body h5,#content .body h6{font-size:16px;color:#878c93}
-#content p{margin-bottom:1em}
+#content p{margin-bottom:.8em}
 #content blockquote{margin:0 1em 1em .5em;padding-left:1em;border-left:4px solid #f1f3f5;color:#878c93}
 #content pre{margin-bottom:1em;padding:1em;border-left:2px solid #ced8e2;background:#f1f3f5;font-size:14px;color:#614992;line-height:1.4}
 #content code{font-family:Monaco,Menlo,"Courier New",monospace}
 #content a{color:#355fae;text-decoration:none}
 #content a:hover{color:#274886}
-#content img{max-width:700px}
+#content img{max-width:500px}
 #content .nav{padding-top:20px;height:60px;font-size:16px;white-space:nowrap}#content .nav em{display:block;color:#878c93;font-style:normal;font-size:12px}
 #content .nav a{padding:10px;border-radius:5px}
 #content .nav a:hover{background:#f1f3f5}
-#content .previous{float:left;padding-left:30px !important}
-#content .previous:before{content:"l";margin:-6px 0 0 -20px;font-size:22px;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none;float:left}
-#content .next{padding-right:30px !important;text-align:right;float:right}
-#content .next:before{content:"r";margin:-6px -20px 0 0;font-size:22px;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none;float:right}
+#content .previous{float:left;padding-left:20px !important}
+#content .previous:before{content:"l";margin:-6px 0 0 -15px;font-size:22px;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none;float:left}
+#content .next{padding-right:20px !important;text-align:right;float:right}
+#content .next:before{content:"r";margin:-6px -15px 0 0;font-size:22px;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none;float:right}
 #content .postnav a:before{margin-top:5px !important}
