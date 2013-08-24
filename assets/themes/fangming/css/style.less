@@ -36,7 +36,10 @@ a { transition: all .5s; }
 #header {
 	position: fixed; margin-left: -200px; top: 20px;
 	li {
-		a:before { padding-right: 10px; .icon; }
+		list-style: none; text-transform: uppercase;
+		a { color: @colorSoft; text-decoration: none; }
+		a:before { padding-right: 10px; text-transform: lowercase; .icon; }
+			a[href~="twitter"]:before { content: "t"; }
 	}
 }
 
@@ -47,6 +50,10 @@ a { transition: all .5s; }
 
 #menu {
 	height: 60px; border-bottom: 1px solid @colorLight;
+	ul { padding-top: 36px; text-transform: uppercase; .r; }
+	li { padding-left: 20px; list-style: none; .l; }
+	a { color: @colorSoft; text-decoration: none; }
+		a:hover { color: @colorHover; }
 }
 
 #footer {
@@ -55,13 +62,6 @@ a { transition: all .5s; }
 		a:hover { color: @colorHover; }
 	ul { height: 2em; }
 	li { padding-right: 1em; list-style: none; .l; }
-}
-
-.menu {
-	padding-top: 36px; text-transform: uppercase; .r;
-	li { padding-left: 20px; list-style: none; .l; }
-	a { color: @colorSoft; text-decoration: none; }
-		a:hover { color: @colorHover; }
 }
 
 
