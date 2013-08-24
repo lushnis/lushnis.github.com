@@ -10,8 +10,8 @@ a{transition:all .5s}
 #footer a:hover{color:#274886}
 #footer ul{height:2em}
 #footer li{padding-right:1em;list-style:none;float:left}
-.logo{float:left}.logo a{width:80px;height:70px;background:url(../images/sign.png) no-repeat 0 100%;background-size:80px 51px;line-height:210px;overflow:hidden;opacity:.9;float:left}
-.logo a:hover{opacity:1}
+.logo{float:left}.logo a{width:160px;height:70px;line-height:90px;font-size:70px;text-decoration:none;letter-spacing:-20px;text-indent:-20px;color:#111;font-family:"iconfont";font-style:normal;font-weight:normal;speak:none;float:left}
+.logo a:hover{color:#274886}
 .menu{padding-top:36px;text-transform:uppercase;float:right}.menu li{padding-left:20px;list-style:none;float:left}
 .menu a{color:#878c93;text-decoration:none}
 .menu a:hover{color:#274886}
@@ -66,7 +66,7 @@ a{transition:all .5s}
 #content a{color:#355fae;text-decoration:none}
 #content a:hover{color:#274886}
 #content img{max-width:700px}
-#content .nav{padding-top:20px;height:60px;font-size:16px}#content .nav em{display:block;color:#878c93;font-style:normal;font-size:12px}
+#content .nav{padding-top:20px;height:60px;font-size:16px;white-space:nowrap}#content .nav em{display:block;color:#878c93;font-style:normal;font-size:12px}
 #content .nav a{padding:10px;border-radius:5px}
 #content .nav a:hover{background:#f1f3f5}
 #content .previous{float:left;padding-left:30px !important}
