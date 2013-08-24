@@ -24,7 +24,7 @@ a{transition:all .5s}
 #footer a:hover{color:#274886}
 #footer ul{height:2em}
 #footer li{padding-right:1em;list-style:none;float:left}
-#intro{padding:2em 0 0;font-size:26px;font-family:;font-weight:300;color:#878c93}#intro i{font-size:26px;font-style:normal;font-family:Songti,SimSun,serif}
+#intro{padding:2em 0 0;font-size:26px;font-family:;font-weight:300;color:#878c93}#intro i{font-size:26px;font-style:normal;font-family:STSong,SimSun,serif}
 #intro a{color:#999;text-decoration:none}
 #intro a:hover{color:#717171}
 #intro .gfw{cursor:help}
