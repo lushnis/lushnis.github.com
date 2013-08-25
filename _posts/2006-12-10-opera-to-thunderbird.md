@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 讲 Opera M2 邮件文件转换至 ThunderBird
+title: 将 Opera M2 邮件文件转换至 ThunderBird
 categories: ['text']
 tags: [Browser,Opera,Thunderbird]
 
