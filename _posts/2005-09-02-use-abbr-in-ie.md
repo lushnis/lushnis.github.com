@@ -6,7 +6,7 @@ tags: [Frontend,CSS,IE]
 
 ---
 
-`&lt;abbr&gt;` 是一个表示一个词或短语的简称（如“HTML”）的标签，通常同时使用title属性来指出原词或原意。但是这个标签一直以来没有得到IE的支持。今天在网上看到了这个解决方案，作者[Dean Edwards](http://dean.edwards.name/)一再声明“This is not a hack”。
+`<abbr>` 是一个表示一个词或短语的简称（如“HTML”）的标签，通常同时使用title属性来指出原词或原意。但是这个标签一直以来没有得到IE的支持。今天在网上看到了这个解决方案，作者[Dean Edwards](http://dean.edwards.name/)一再声明“This is not a hack”。
 
 解决方案：在文档头部
 
