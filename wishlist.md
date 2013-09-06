@@ -22,13 +22,13 @@ title: Wishlist
 			<li><del>iRobot Roomba 570</del> 2013.3</li>
 			<li><del>Macbook Pro 15" Retina</del> 2013.1</li>
 			<li><del>Olympus E-M5</del> 2012.10</li>
-			<li><del>OLYMPUS M.ZUIKO DIGITAL 45mm f1.8</del> 2012.4</li>
+			<li><del>Olympus M.Zuiko Digital 45mm F1.8</del> 2012.4</li>
 			<li><del>iPhone 4s</del> 2012.3</li>
 			<li><del>MacBook Air 13"</del> 2012.1</li>
 			<li><del>LG Optimus 2X</del> 2011.11</li>
 			<li><del>XBOX 360 &amp; Kinect</del> 2011.5</li>
-			<li><del>Canon PIXMA iP4880</del> 2011.3</li>
-			<li><del>OLYMPUS E-PL1</del> 2010.11</li>
+			<li><del>Canon Pixma iP4880</del> 2011.3</li>
+			<li><del>Olympus E-PL1</del> 2010.11</li>
 		</ul>
 	</div>
 </div>
