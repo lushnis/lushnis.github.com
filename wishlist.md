@@ -8,16 +8,16 @@ title: Wishlist
 <div id="content">
 	<div class="body">
 		<ul class="wishlist">
-			<li>Sony Xperia Z1 &amp; Q100</li>
-			<li>Braun Series 7-790cc</li>
-			<li>Dyson DC35</li>
-			<li>Bose QuietComfort 15</li>
-			<li>Nomos Glashütte Tangomat</li>
+			<li>Sony <a href="http://www.sonymobile.com/global-en/products/phones/xperia-z1/">Xperia Z1</a> &amp; <a href="http://www.sonymobile.com/global-en/products/accessories/dsc-qx100/">Q100</a></li>
+			<li><a href="http://www.braun.com/us/male-grooming/series-shavers/series-7.html">Braun Series 7-790cc</a></li>
+			<li><a href="http://www.dyson.com/vacuums/handhelds/dc35/dc35-multi-floor.aspx">Dyson DC35</a></li>
+			<li><a href="http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp">Bose QuietComfort 15</a></li>
+			<li><a href="http://www.nomos-glashuette.com/en/watches/tangomat/">Nomos Glashütte Tangomat</a></li>
 		</ul>
 		<hr>
 		<ul class="wishlist wishlist-done">
 			<li><del>Mobee Magic Chager</del> 2013.7</li>
-			<li><del>Jambone Up 2</del> 2013.4</li>
+			<li><del>Jawbone Up 2</del> 2013.4</li>
 			<li><del>Beyerdynamic DTX 501p</del> 2013.3</li>
 			<li><del>iRobot Roomba 570</del> 2013.3</li>
 			<li><del>Macbook Pro 15" Retina</del> 2013.1</li>
