@@ -74,6 +74,7 @@ a{transition:all .5s}
 #content pre{margin-bottom:1em;padding:1em;border-left:2px solid #ced8e2;background:#f1f3f5;font-size:12px;color:#614992;line-height:1.4}
 #content code{padding:0 5px;background:#f1f3f5;font-family:Monaco,Menlo,"Courier New",monospace}
 #content pre code{padding:0;background:transparent}
+#content hr{margin:20px 0 30px;height:1px;border:none;background:#878c93}
 #content a{color:#355fae;text-decoration:none}
 #content a:hover{color:#274886}
 #content img{max-width:500px}
