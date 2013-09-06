@@ -4,7 +4,7 @@ title: Wishlist
 
 ---
 
-<h1 class="pagetitle">About</h1>
+<h1 class="pagetitle">Wishlist</h1>
 <div id="content">
 	<div class="body">
 		<ul>
