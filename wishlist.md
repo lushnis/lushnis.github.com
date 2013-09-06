@@ -8,6 +8,7 @@ title: Wishlist
 * Braun Series 7-790cc
 * Dyson DC35
 * Bose QuietComfort 15
+* Nomos Glashütte Tangomat
 
 ---
 
