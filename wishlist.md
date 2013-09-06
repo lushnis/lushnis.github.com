@@ -7,7 +7,7 @@ title: Wishlist
 <h1 class="pagetitle">Wishlist</h1>
 <div id="content">
 	<div class="body">
-		<ul>
+		<ul class="wishlist">
 			<li>Sony Xperia Z1 &amp; Q100</li>
 			<li>Braun Series 7-790cc</li>
 			<li>Dyson DC35</li>
@@ -15,7 +15,7 @@ title: Wishlist
 			<li>Nomos Glashütte Tangomat</li>
 		</ul>
 		<hr>
-		<ul>
+		<ul class="wishlist wishlist-done">
 			<li><del>Mobee Magic Chager</del> 2013.7</li>
 			<li><del>Jambone Up 2</del> 2013.4</li>
 			<li><del>Beyerdynamic DTX 501p</del> 2013.3</li>
