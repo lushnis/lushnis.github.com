@@ -4,7 +4,7 @@ title: Wishlist
 
 ---
 
-* Sony [Xperia Z1](http://www.sonymobile.com/global-en/products/phones/xperia-z1/) & [Q100](http://www.sonymobile.com/global-en/products/accessories/dsc-qx100/)
+* Sony [Xperia Z1](http://www.sonymobile.com/global-en/products/phones/xperia-z1/) & [DSC-QX100](http://www.sonymobile.com/global-en/products/accessories/dsc-qx100/)
 * [Braun Series 7-790cc](http://www.braun.com/us/male-grooming/series-shavers/series-7.html)
 * [Dyson DC35](http://www.dyson.com/vacuums/handhelds/dc35/dc35-multi-floor.aspx)
 * [Bose QuietComfort 15](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp)
