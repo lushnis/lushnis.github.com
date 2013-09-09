@@ -1,35 +1,28 @@
 ---
-layout: page
+layout: content
 title: Wishlist
 
 ---
 
-<h1 class="pagetitle">Wishlist</h1>
-<div id="content">
-	<div class="body">
-		<ul class="wishlist">
-			<li>Sony <a href="http://www.sonymobile.com/global-en/products/phones/xperia-z1/">Xperia Z1</a> &amp; <a href="http://www.sonymobile.com/global-en/products/accessories/dsc-qx100/">Q100</a></li>
-			<li><a href="http://www.braun.com/us/male-grooming/series-shavers/series-7.html">Braun Series 7-790cc</a></li>
-			<li><a href="http://www.dyson.com/vacuums/handhelds/dc35/dc35-multi-floor.aspx">Dyson DC35</a></li>
-			<li><a href="http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp">Bose QuietComfort 15</a></li>
-			<li><a href="http://www.nomos-glashuette.com/en/watches/tangomat/">Nomos Glashütte Tangomat</a></li>
-		</ul>
-		<hr>
-		<ul class="wishlist wishlist-done">
-			<li><del>Mobee Magic Chager</del> 2013.7</li>
-			<li><del>LeTV C1S</del> 2013.4</li>
-			<li><del>Jawbone Up 2</del> 2013.4</li>
-			<li><del>Beyerdynamic DTX 501p</del> 2013.3</li>
-			<li><del>iRobot Roomba 570</del> 2013.3</li>
-			<li><del>Macbook Pro 15" Retina</del> 2013.1</li>
-			<li><del>Olympus E-M5</del> 2012.10</li>
-			<li><del>Olympus M.Zuiko Digital 45mm F1.8</del> 2012.4</li>
-			<li><del>iPhone 4s</del> 2012.3</li>
-			<li><del>MacBook Air 13"</del> 2012.1</li>
-			<li><del>LG Optimus 2X</del> 2011.11</li>
-			<li><del>XBOX 360 &amp; Kinect</del> 2011.5</li>
-			<li><del>Canon Pixma iP4880</del> 2011.3</li>
-			<li><del>Olympus E-PL1</del> 2010.11</li>
-		</ul>
-	</div>
-</div>
+* Sony [Xperia Z1](http://www.sonymobile.com/global-en/products/phones/xperia-z1/) & [Q100](http://www.sonymobile.com/global-en/products/accessories/dsc-qx100/)
+* [Braun Series 7-790cc](http://www.braun.com/us/male-grooming/series-shavers/series-7.html)
+* [Dyson DC35](http://www.dyson.com/vacuums/handhelds/dc35/dc35-multi-floor.aspx)
+* [Bose QuietComfort 15](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp)
+* [Nomos Glashütte Tangomat](http://www.nomos-glashuette.com/en/watches/tangomat/)
+
+---
+
+* Mobee Magic Chager 2013.7
+* LeTV C1S 2013.4
+* Jawbone Up 2 2013.4
+* Beyerdynamic DTX 501p 2013.3
+* iRobot Roomba 570 2013.3
+* Macbook Pro 15" Retina 2013.1
+* Olympus E-M5 2012.10
+* Olympus M.Zuiko Digital 45mm f1.8 2012.4
+* iPhone 4s 2012.3
+* MacBook Air 13" 2012.1
+* LG Optimus 2X 2011.11
+* XBOX 360 & Kinect 2011.5
+* Canon Pixma iP4880 2011.3
+* Olympus E-PL1 2010.11
