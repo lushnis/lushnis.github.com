@@ -2,7 +2,7 @@
 layout: post
 title: 侯孝贤：重新再看小津安二郎
 categories: ['text']
-tags: [Movie]
+tags: [Film]
 
 ---
 

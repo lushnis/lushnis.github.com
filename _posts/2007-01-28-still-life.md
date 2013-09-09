@@ -2,7 +2,7 @@
 layout: post
 title: 三峡好人
 categories: ['movie']
-tags: ['Movie']
+tags: ['Film']
 
 ---
 

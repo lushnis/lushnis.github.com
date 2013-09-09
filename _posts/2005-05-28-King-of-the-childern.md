@@ -2,7 +2,7 @@
 layout: post
 title: 孩子王
 categories: ['movie']
-tags: ['Movie']
+tags: ['Film']
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: ['link']
-tags: [Resource]
+tags: [Resources]
 
 ---
 

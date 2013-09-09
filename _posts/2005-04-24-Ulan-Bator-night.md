@@ -2,7 +2,7 @@
 layout: post
 title: 乌兰巴托的夜
 categories: ['movie']
-tags: ['movie','Music','Flash']
+tags: ['Film','Music','Flash']
 
 ---
 
