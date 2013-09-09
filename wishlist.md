@@ -17,6 +17,7 @@ title: Wishlist
 		<hr>
 		<ul class="wishlist wishlist-done">
 			<li><del>Mobee Magic Chager</del> 2013.7</li>
+			<li><del>LeTV C1S</del> 2013.4</li>
 			<li><del>Jawbone Up 2</del> 2013.4</li>
 			<li><del>Beyerdynamic DTX 501p</del> 2013.3</li>
 			<li><del>iRobot Roomba 570</del> 2013.3</li>
