@@ -18,4 +18,4 @@ tags: [Typography,Design]
 * Gill Sans
 * Univers
 
-有意思的是前100款字体中仅有两款是衬线字体。
+有意思的是前10款字体中仅有两款是衬线字体。
