@@ -9,7 +9,7 @@ title: Wishlist
 * [Dyson DC35](http://www.dyson.com/vacuums/handhelds/dc35/dc35-multi-floor.aspx)
 * [Bose QuietComfort 15](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp)
 * [Nomos Glashütte Tangomat](http://www.nomos-glashuette.com/en/watches/tangomat/)
-* [Olumpus M.Zuiko Digital 12mm f2.0](http://www.getolympus.com/us/en/lenses/pen-omd/m-zuiko-lens-12mm-f2-0-silver.html)
+* [Olympus M.Zuiko Digital 12mm f2.0](http://www.getolympus.com/us/en/lenses/pen-omd/m-zuiko-lens-12mm-f2-0-silver.html)
 
 ---
 
