@@ -13,6 +13,7 @@ title: Wishlist
 
 ---
 
+* Apple iPhone 5S 2013.9
 * Mobee Magic Chager 2013.7
 * LeTV C1S 2013.4
 * Jawbone Up 2 2013.4
@@ -21,7 +22,7 @@ title: Wishlist
 * Macbook Pro 15" Retina 2013.1
 * Olympus E-M5 2012.10
 * Olympus M.Zuiko Digital 45mm f1.8 2012.4
-* iPhone 4s 2012.3
+* Apple iPhone 4s 2012.3
 * MacBook Air 13" 2012.1
 * LG Optimus 2X 2011.11
 * XBOX 360 & Kinect 2011.5
