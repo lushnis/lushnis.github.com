@@ -4,6 +4,7 @@ title: Wishlist
 
 ---
 
+* [Hamilton Beach Single Cup Coffee Makers](http://www.hamiltonbeach.com/single-cup-coffee-makers.html)
 * [JayBird BlueBuds X](http://store.apple.com/cn/product/HB235VC/A/jaybird-bluebuds-x-premium-bluetooth-耳机)
 * [Bluelounge Saidoka iPhone Dock](http://www.bluelounge.com/products/saidoka/)
 * [Olympus M.Zuiko Digital 12mm f2.0](http://www.getolympus.com/us/en/lenses/pen-omd/m-zuiko-lens-12mm-f2-0-silver.html)
