@@ -4,6 +4,7 @@ title: Wishlist
 
 ---
 
+* [Apple iPad mini with Retina Display](http://www.apple.com/cn/ipad-mini/)
 * [Hamilton Beach Single Cup Coffee Makers](http://www.hamiltonbeach.com/single-cup-coffee-makers.html)
 * [JayBird BlueBuds X](http://store.apple.com/cn/product/HB235VC/A/jaybird-bluebuds-x-premium-bluetooth-耳机)
 * [Bluelounge Saidoka iPhone Dock](http://www.bluelounge.com/products/saidoka/)
