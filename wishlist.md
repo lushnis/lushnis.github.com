@@ -4,7 +4,6 @@ title: Wishlist
 
 ---
 
-* [Apple iPad mini with Retina Display](http://www.apple.com/cn/ipad-mini/)
 * [Hamilton Beach Single Cup Coffee Makers](http://www.hamiltonbeach.com/single-cup-coffee-makers.html)
 * [JayBird BlueBuds X](http://store.apple.com/cn/product/HB235VC/A/jaybird-bluebuds-x-premium-bluetooth-耳机)
 * [Bluelounge Saidoka iPhone Dock](http://www.bluelounge.com/products/saidoka/)
@@ -16,6 +15,7 @@ title: Wishlist
 
 ---
 
+* Apple iPad mini with Retina Display 2013.12
 * Apple iPhone 5S 2013.9
 * Mobee Magic Chager 2013.7
 * LeTV C1S 2013.4
