@@ -5,16 +5,15 @@ title: Wishlist
 ---
 
 * [Hamilton Beach Single Cup Coffee Makers](http://www.hamiltonbeach.com/single-cup-coffee-makers.html)
-* [JayBird BlueBuds X](http://store.apple.com/cn/product/HB235VC/A/jaybird-bluebuds-x-premium-bluetooth-耳机)
 * [Bluelounge Saidoka iPhone Dock](http://www.bluelounge.com/products/saidoka/)
 * [Olympus M.Zuiko Digital 12mm f2.0](http://www.getolympus.com/us/en/lenses/pen-omd/m-zuiko-lens-12mm-f2-0-silver.html)
 * [Nomos Glashütte Tangomat](http://www.nomos-glashuette.com/en/watches/tangomat/)
-* [Bose QuietComfort 15](http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp)
 * [Braun Series 7-790cc](http://www.braun.com/us/male-grooming/series-shavers/series-7.html)
 * [Dyson DC35](http://www.dyson.com/vacuums/handhelds/dc35/dc35-multi-floor.aspx)
 
 ---
 
+* Sony MDR10RBT Bluetooth Wireless Headphones 2014.2
 * Apple iPad mini with Retina Display 2013.12
 * Apple iPhone 5S 2013.9
 * Mobee Magic Chager 2013.7
