@@ -14,6 +14,7 @@ title: Wishlist
 ---
 
 * Sony MDR10RBT Bluetooth Wireless Headphones 2014.2
+* Eye-Fi Mobi 16G Wireless Memory Card 2014.1
 * Apple iPad mini with Retina Display 2013.12
 * Apple iPhone 5S 2013.9
 * Mobee Magic Chager 2013.7
