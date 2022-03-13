@@ -1,3 +1,10 @@
+---
+layout: post
+title: 老电影
+categories: ['movie']
+tags: ['Film']
+---
+
 前段时间用 [Plex](https://plex.tv) 把硬盘中的电影都整理起来，观影体验好了很多，看了一些老电影。
 
 ![巴里林登剧照](https://fangming.li/wimgs/blog/barry_lyndon.jpeg)
